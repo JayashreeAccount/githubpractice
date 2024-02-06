@@ -1,1 +1,1 @@
-Created test1.text file in githubpractice repo
+Changed the test1.txt file
